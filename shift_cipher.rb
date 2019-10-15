@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-# Lines 15,16,33, and 34 were added by me to fix a bug. The rest of the code is from
+# Lines 15,16,20,21,33,34,38,39 were added by me to fix a bug. The rest of the code is from
 # Ruby: Classes and Modules on LinkedIn learning
 
 class ShiftCipher
